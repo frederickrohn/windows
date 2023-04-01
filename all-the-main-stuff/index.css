@@ -1,0 +1,29 @@
+/* This is a CSS comment */
+
+/* Set the font family and size for the body element */
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Set the background color and text color for the header element */
+  header {
+    background-color: #333;
+    color: #D3D3D3;
+  }
+  
+  /* Set the font size and margin for the h1 element */
+  h1 {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  /* Style links */
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #666;
+  }
